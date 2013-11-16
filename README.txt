@@ -10,7 +10,9 @@ Toggle password visibility on the WordPress login screen.
 
 == Description ==
 
-Let users reveal or hide the contents of the password field on the WordPress login screen. Uses the excellent [hideShowPassword](http://blog.cloudfour.com/hide-show-passwords-plugin/) jQuery or Zepto plugin by [Cloud Four](http://cloudfour.com/).
+Let users show or hide the contents of the password field on the WordPress login screen. Uses the excellent [hideShowPassword](http://blog.cloudfour.com/hide-show-passwords-plugin/) jQuery or Zepto plugin by [Cloud Four](http://cloudfour.com/).
+
+= Github =
 
 Fork me on [Github](https://github.com/barryceelen/wp-hide-show-password).
 
