@@ -25,7 +25,7 @@ Fork me on [Github](https://github.com/barryceelen/wp-hide-show-password).
 
 = 1.0.1 =
 
-* Hide Internet Explorer 10 control for toggling password visibility
+* Hide default Internet Explorer 10 control for toggling password visibility
 
 = 1.0.0 =
 
