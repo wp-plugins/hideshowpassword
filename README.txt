@@ -16,11 +16,11 @@ Lets you easily show or hide the contents of the password field on the WordPress
 
 ["a compendium of why and how to show passwords and what’s coming next"](http://www.lukew.com/ff/entry.asp?1941) by Luke Wroblewski.
 
-**Options**
+= Options =
 
 A settings section is added to the 'General Settings' page. You can select between toggling password visibility via an icon in the password field (default) or via a checkbox below the password field.
 
-**Translations**
+= Translations =
 
 The default setting of toggling the password via an icon in the password field does not require translation as no text will be visible to the user. If you select the option of toggling the password via a checkbox, the following translations are included:
 
