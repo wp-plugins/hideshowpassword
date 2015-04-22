@@ -6,7 +6,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Toggle password visibility on the WordPress login screen.
+Easily show or hide the contents of the password field on the WordPress login screen.
 
 == Description ==
 
